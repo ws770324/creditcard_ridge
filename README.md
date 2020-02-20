@@ -1,0 +1,3 @@
+## Comparing the Probability of Credit Card Approval between AIC-based Model Selection and Ridge Penalty 
+
+One’s credit score helps a company evaluate how likely the one will repay the debts, and each company has each’s criteria to decide to issue their product. In this project, I’m interested in predicting the results of the credit card application based on applications’ information. Since the approval was recorded as binary outcomes, I approached this research question by logistic regression. I used model selection method and ridge penalty to fit two models and chose leave-one-out to evaluate and compare the models’ accuracy.
